@@ -15,14 +15,14 @@ Vous trouverez dans ce répertoire:
 
 Liens utiles:
 
-[SKlearn](https://scikit-learn.org/stable/index.html)
-[XGBOOST](https://xgboost.readthedocs.io/en/latest/#)
-[Pytorch](https://pytorch.org/)
-[Tensorflow](https://www.tensorflow.org/)
+1. [SKlearn](https://scikit-learn.org/stable/index.html)
+2. [XGBOOST](https://xgboost.readthedocs.io/en/latest/#)
+3. [Pytorch](https://pytorch.org/)
+4. [Tensorflow](https://www.tensorflow.org/)
 
 Chaines Youtube: 
 
-[Machine Learnia](https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ)
-[StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
-[DeepMath](https://www.youtube.com/c/deepmath)
-[Markdown_Git_Hub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. [Machine Learnia](https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ)
+2. [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+3. [DeepMath](https://www.youtube.com/c/deepmath)
+4. [Markdown_Git_Hub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
