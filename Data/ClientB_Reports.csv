@@ -1,0 +1,854 @@
+,EquipmentID,SurveyDate,AreaName,AreaID,Route,EquipmentName,AnalysisDate,FaultStatus,FaultName,Comment,Location,Analyst
+0,A741,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,A741 VENTILATEUR A741,2019-10-09 08:11:44,1. FOR INFORMATION,Electrical problem,"Nous observons des fréquences d'origine électrique sur le moteur. La signature du passage de barre rotorique est visible mais reste tout à fait acceptable. Evolution stable depuis la dernière mesure. 
+
+Comportement vibratoire sain. Pas d'action à prévoir. Equipement à suivre selon planning. ",Moteur,tk/400
+1,V1102,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1102 VENTILATEUR V1102,2019-10-09 08:17:04,1. FOR INFORMATION,Electrical problem,"Nous ne relevons pas de défaut particulier sur l'équipement, seulement des fréquences d'origine électrique dont les amplitudes vibratoires sont stables et acceptables. 
+
+Comportement vibratoire sain. Pas d'action requise, équipement à suivre selon planning. ",Moteur,tk/400
+2,M2,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,M2 POMPE M2,2019-07-21 13:12:40,1. FOR INFORMATION,Other,"Aucun défaut particulier n'est à signaler sur l'équipement, hormis des fréquences électriques stables en regard de la dernière mesure. 
+
+Pas d'action requise. Equipement à suivre selon planning (3 mois). 
+
+",,tk/400
+3,M5,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,M5 POMPE M5,2019-07-21 13:41:05,1. FOR INFORMATION,Other,"Nous ne relevons pas de problème particulier sur l'équipement. Les amplitudes traduisent un fonctionnement normal de l'équipement.
+
+Seul le moteur a été contrôler les plaiers ventilateur ne sont pas accessibles.
+
+Pas d'action requise. Equipement à suivre selon planning.",,tk/400
+4,M9,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,M9 POMPE M9,2019-07-21 14:01:09,1. FOR INFORMATION,Other,"Aucun défaut particulier n'est relevé sur cet équipement.
+
+Seul le moteur a été mesuré, les paliers du ventilateur n'étant pas accessibles. 
+
+Pas d'action requise. Equipement à suivre selon planning (3 mois). ",,tk/400
+5,40M01,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,40M01 Kuttner,2019-10-09 08:41:35,1. FOR INFORMATION,Electrical problem,"Aucune défaut particulier n'est relevé sur l'équipement. 
+Des fréquences d'origine éléctrique sont observées sur le moteur et une signature de roulement est visible sur le palier côté opposé accouplement du ventilateur. 
+Dans un cas comme dans l'autre, les amplitudes vibratoires sont faibles et n'évoluent pas. 
+Comportement vibratoire sain. Pas d'action requise, équipement à suivre selon planning. ",,tk/400
+6,M2,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,M2 POMPE M2,2019-10-09 09:21:38,1. FOR INFORMATION,Other,"Nous ne relevons pas de défaut sur cet équipement. Le comportement vibratoire est sain. Aucune action requise, équipement à suivre selon planning. ",,tk/400
+7,M9,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,M9 POMPE M9,2019-10-09 09:37:06,1. FOR INFORMATION,Imbalance,"Pas de défaut particulier sur cet équipement, hormis un léger déséquilibre avec amplification structurelle. Compte tenu de la souplesse de la structure, cela est tout à fait acceptable. Pas d'action requise, équipement à suivre selon planning. ",,tk/400
+8,Dép PF,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,Dép PF Dépoussièrage PF,2020-01-13 15:17:34,1. FOR INFORMATION,Courroie(s),"Nous ne relevons pas de défaut particulier sur cet équipement, hormis une fréquence de courroie. Nous pouvons entendre les courroies également lorsque l'équipement est encore froid. Cela ne doit pas générer d'inquiétude. 
+
+Pas d'action requise. Equipement à suivre selon planning. ",,tk/400
+9,A711,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,A711 VENTILATEUR A711,2020-01-13 16:26:39,1. FOR INFORMATION,N/A,"Nous n'observons pas de défaut particulier sur cet équipement, hormis la présence de fréquences électriques qui ne doivent pas générer d'inquiétude.
+
+Pas d'action requise. Equipement à suivre selon planning.  ",,tk/400
+10,M1,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,M1 POMPE M1,2020-06-25 15:55:22,1. FOR INFORMATION,N/A,Nous ne relevons pas de défaut particulier sur cet équipement. Comportement vibratoire satisfaisant. A suivre de manière périodique. ,,Administrator/44534
+11,M2,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,M2 POMPE M2,2020-06-25 16:03:04,1. FOR INFORMATION,N/A,Nous ne relevons pas de défaut particulier sur cet équipement. Comportement vibratoire satisfaisant. A suivre de manière périodique. ,,Administrator/44534
+12,M7,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,M7 POMPE M7,2020-06-25 16:14:00,1. FOR INFORMATION,Lubrication problem,Evolution positive du défaut de la lubrification. Pas d'anomalie particulière relative. Aucune action requise. A suivre périodiquement. ,,Administrator/44534
+13,M8,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,M8 POMPE M8,2020-06-25 16:16:37,1. FOR INFORMATION,N/A,Pas de défaut particulier relevé. Aucune action requise. A suivre périodiquement.,,Administrator/44534
+14,PF1AN,2020-03-04 23:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF1AN REDUCTEUR_PFA1_NORD,2020-03-12 08:49:49,1. FOR INFORMATION,Lubrication problem,"Les amplitudes sont normales.
+Prédominance de chocs à 993 et 248cpm, probablement liés aux chocs à la rotation  des arbres GV et MV1 
+Fonctionnement calme du réducteur
+
+Roulements:
+Sur les roulementsdu second arbre, on reléve la présence de chocs à 169cpm, dont l'origine est difficile à attribuer sans les éléments de la cinématique (plan et désignation des roulements).
+
+Préconisation:
+Un graissage léger des paliers du moteur est recomandé sans urgences.
+Les plans et la séléments de la cinématique du réducteur est à transmettre afin confirmer l'origine des défauts observés",palier moteur côté transmission,Laurent/44701
+15,Dép PF,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,Dép PF Dépoussièrage PF,2020-06-25 15:22:47,1. FOR INFORMATION,N/A,Aucun défaut particulier relevé sur l'équipement. Aucune action requise. ,,Administrator/44534
+16,V1,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2020-03-11 11:40:25,1. FOR INFORMATION,Niveaux stables,"Moteur/ ventilateur
+Pas d'évolution notables sur les mesures de cette campagnes.
+Sur le roulement du ventilateur côté accouplement, les spectres en accélération et peak-vue ne présente pas d'évolution notable.
+
+Préconisation:
+Suivre l'évolution des défauts lors des prochaines mesures.",Roulement du ventilateur côté accouplement,Laurent/44701
+17,P36B,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,P36B POMPE P36B,2020-03-11 14:16:21,1. FOR INFORMATION,Evolution positive,"Moteur/ pompe.
+Peu d'évolution sur l'ensemble de la cinématique avec la prédominance sur les spectres vitesse des harmoniques 3 et 6 à la rotation de l'arbre (nombres d'aubes ?).
+
+Roulements
+Evolution positive de la mesure en accélération sur le roulement du moteur côté accouplement. Disparition de la composante liée au manque de lubrification.
+
+Préconisation:
+Pas d'action requise",lubrification palier moteur côté accouplement,Laurent/44701
+18,M1,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,M1 POMPE M1,2020-03-11 15:03:48,1. FOR INFORMATION,N/A,"Bon fonctionnement de l'ensemble des éléments de la cinématique.
+Pas d'évolution depuis les esures de janvier 2020.
+
+Psa d'actions requises",ensemble de la cinématique,Laurent/44701
+19,M2,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,M2 POMPE M2,2020-03-11 15:10:57,1. FOR INFORMATION,N/A,"Fonctionnement normal  et sans évolutions notables de cet ensemble
+
+Pas d'actions requises",Ensemble de la cinématique,Laurent/44701
+20,T40,2019-06-26 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T40 REDUCTEUR T40,2019-07-04 14:33:43,1. FOR INFORMATION,Gear problem,"Aucun défaut particulier relevé sur cet équipement. Des fréquences d'engrènement, typiques du fonctionnement normal d'un réducteur sont observées. 
+
+Pas d'action requise, équipement à suivre selon planning. ",,tk/400
+21,T43A,2019-06-26 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T43A REDUCTEUR T43A H2.25,2019-07-04 14:44:36,1. FOR INFORMATION,Gear problem,"Aucun défaut particulier relevé sur cet équipement. Des fréquences d'engrènement, typiques du fonctionnement normal d'un réducteur sont observées. 
+
+Des fréquences électriques sont également relevées sur le moteur. 
+
+Pas d'action requise, équipement à suivre selon planning. ",,tk/400
+22,M1,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,M1 POMPE M1,2020-01-13 16:50:26,1. FOR INFORMATION,N/A,"Nous ne relevons pas de défaut particulier sur cet équipement. Le défaut de lubrification mentionné à la dernière mesure ne semble pas évoluer et ne doit pas générer d'inquiétude. 
+
+Pas d'action à prévoir. Equipement à suivre selon planning.",,tk/400
+23,V1,2019-03-01 08:29:45,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2019-03-04 07:36:29,1. FOR INFORMATION,Other,,,Administrator/44534
+24,V1102,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1102 VENTILATEUR V1102,2019-05-03 07:57:53,1. FOR INFORMATION,Other,"Nous ne relevons pas de problème particulier sur l'équipement.
+
+Jeu OK
+Alignement OK
+Equilibrage OK
+Lubrification OK
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+25,M2,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,M2 POMPE M2,2020-01-13 16:53:08,1. FOR INFORMATION,N/A,"Pas de défaut particulier relevé sur cet équipement. L'ensemble des mesures vibratoires indiquent un comportement vibratoire sain.
+
+ Pas d'action requise. Equipement à suivre selon planning.",,tk/400
+26,M4,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,M4 POMPE M4,2020-01-13 16:58:51,1. FOR INFORMATION,N/A,"Nous n'observons pas de défaut particulier sur cet équipement. L'ensemble des mesures vibratoires indiquent un comportemet vibratoire normal. 
+
+Pas d'action requise. Equiement à suivre selon planning. ",,tk/400
+27,A752,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,A752 VENTILATEUR A752,2020-03-11 11:25:05,1. FOR INFORMATION,Evolution positive,"Moteur:
+Fonctionnement normal du moteur
+
+Roulement: RAS
+Lubrification: RAS
+
+Ventilateur: 
+Fonctionnement normal de la turbine. Présence de chocs à la rotation à de faibles amplitudes, signe d'un léger jeux de fonctionnement.
+
+Roulement:
+Amélioration des amplitudes en accélération et Peak-Vue, avec la disparition du défaut de lubrification.
+
+Préconisation:
+Fonctionnement normal.",palier ventilateur côté accouplement,Laurent/44701
+28,40M01,2020-10-02 07:33:59,FERROGLOBE,FER,FERROGLOBE,40M01 Kuttner,2020-10-02 08:16:11,1. FOR INFORMATION,Other,,,HL/44534
+29,M5,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,M5 POMPE M5,2020-03-11 15:29:48,1. FOR INFORMATION,N/A,"Moteur:
+Le comportement vibratoire du moteur est correct et les amplitudes en légère baisse. Cette tendance est liée à une vitesse de fonctionnement moins importante que lors des précédentes mesures.
+
+Roulements:
+Cette série de mesures ne confirme pas la présence de dafuts liés à la cinématique des roulements
+
+Pas d'actions requises",Moteur,Laurent/44701
+30,M7,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,M7 POMPE M7,2020-03-11 15:39:14,1. FOR INFORMATION,Lubrication problem,"Moteur et pompe
+Fonctionnement normal avec la prédominance de la troisième harmonique à la rotation de l'arbre, particulièrement visible sur la pompe.
+
+Roulements de la pompe:
+Pas d'évolutions notables sur les amplitudes globales et formes spectrale et d'onde.
+
+Préconisation.
+Pas d'action requise mais à suivre suivant le planning.",pompe,Laurent/44701
+31,M9,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,M9 POMPE M9,2020-03-11 16:20:13,1. FOR INFORMATION,Lubrication problem,"Moteur:
+Fonctionnement normal du moteur.
+
+Roulement:
+Pas d'évolutions sur les roulements du moteur avec toujours une contrainte accompagné de défauts de piste naissants. pas d'évolution en amplitude ou en nombre d'harmoniques
+
+Préconisation:
+Pas d'action requise. A suivre suivant le planning ",roulements du moteur,Laurent/44701
+32,PF14,2020-03-04 23:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF14 PF14_Concasseur_secondaire,2020-03-11 16:30:54,1. FOR INFORMATION,Evolution positive,"Moteur:
+Baisse légère des amplitudes sur la palier côté opposé à l'accouplement.
+Cette tendance est liée à la première harmonique à la rotation de l'arbre du concasseur.
+
+Concasseur:
+Baisse légère des amplitudes sur la palier côté opposé à l'accouplement.
+Cette tendance est liée à la première harmonique à la rotation de l'arbre du concasseur.
+Les amplitudes demeurent notables mais stables sur le palier côté accouplement
+
+Pas d'action requise",paliers concasseur côté opposé à l'accouple.,Laurent/44701
+33,T43B,2020-03-04 23:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T43B REDUCTEUR T43_B H2.64,2020-03-11 17:13:18,1. FOR INFORMATION,Evolution positive,"Moteur:
+Fonctionnement du moteur
+
+Roulement:
+Modification des spectres et formes d'ondes sur les mesures peak-vue montrant une diminution des défauts relevés lors de la précédentes mesures.
+
+Réducteur:
+Fonctionnement normal du réducteur
+
+Pas d'action requise",Lubrification roulement moteur,Laurent/44701
+34,M2,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M2 POMPE M2,2019-05-03 08:44:24,1. FOR INFORMATION,Other,"Nous ne relevons pas de problème particulier sur l'équipement. Les amplitudes traduisent un fonctionnement normal de l'équipement.
+
+Jeu OK
+Alignement OK
+Lubrification OK
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+35,M4,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M4 POMPE M4,2019-05-03 08:46:59,1. FOR INFORMATION,Other,"Nous ne relevons pas de problème particulier sur l'équipement. Les amplitudes traduisent un fonctionnement normal de l'équipement.
+
+Seul le moteur a été contrôler les plaiers ventilateur ne sont pas accessibles.
+
+Jeu OK
+Alignement OK
+Lubrification OK
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+36,M5,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M5 POMPE M5,2019-05-03 08:48:13,1. FOR INFORMATION,Other,"Nous ne relevons pas de problème particulier sur l'équipement. Les amplitudes traduisent un fonctionnement normal de l'équipement.
+
+Seul le moteur a été contrôler les plaiers ventilateur ne sont pas accessibles.
+
+Jeu OK
+Alignement OK
+Lubrification OK
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+37,M9,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M9 POMPE M9,2019-05-03 08:55:32,1. FOR INFORMATION,Drive Belt concern,"Nous relevons les fréquences de défaut des courroies de transmission. Les amplitudes sont marquées mais restent acceptables. A suivre lors du prochain contrôle.
+
+Seul le moteur a été contrôler les plaiers ventilateur ne sont pas accessibles.
+
+Pas de défaut notable de roulement à signaler.
+
+Equilibrage OK
+Lubrification OK
+Jeu OK
+Alignement OK
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+38,A402,2019-06-27 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,A402 REDUCTEUR_A402_voirplan,2019-07-04 14:07:32,1. FOR INFORMATION,Electrical problem,"Aucun défaut particulier n'est relevé sur l'équipement. 
+
+Nous observons cependant des fréquences d'origine électrique. 
+
+Aucune action requise, équipement à suivre selon planning. ",,tk/400
+39,Dép PF,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,Dép PF Dépoussièrage PF,2020-10-02 08:23:22,1. FOR INFORMATION,N/A,"Nous ne relevons pas de défaut ni d'évolution particulière sur cet équipement. (Léger jeu structurel tout à fait acceptable). 
+
+Comportement vibratoire sain. Pas d'action requise. ",,HL/44534
+40,M2,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M2 POMPE M2,2020-10-02 08:44:42,1. FOR INFORMATION,N/A,"Nous ne relevons pas de défaut ni d'évolution particulière. Comportement vibratoire satisfaisant. 
+
+Pas de défaut notable. A suivre selon planning. ",,HL/44534
+41,M4,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M4 POMPE M4,2020-10-02 08:46:40,1. FOR INFORMATION,N/A,"Nous ne relevons pas de défaut particulier. 
+
+Pas de défaut notable. A suivre selon planning.",,HL/44534
+42,M5,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M5 POMPE M5,2020-10-02 08:47:44,1. FOR INFORMATION,N/A,"Nous ne relevons pas de défaut particulier. 
+
+Pas de défaut notable. A suivre selon planning.",,HL/44534
+43,M7,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M7 POMPE M7,2020-10-02 08:49:49,1. FOR INFORMATION,Vane pass frequency,"Nous relevons sur le moteur ue fréquence à 3X la vitesse de rotation. Cette fréquence trouve son origine dans le fonctionnement de la pompe (3 aubes) et se trouve amplifiée sur le moteur. Les amplitudes ne nécessitent pas d'intervention. 
+Nous relevons également du frottement sur la pompe. Pas d'accès pour lubrifier --> Pas d'action requise. 
+
+Passage des aubes avec amplification sur moteur et lubrification naissant sur pompe. Pas d'action requise. ",Moteur,HL/44534
+44,A741,2020-10-07 22:00:00,FERROGLOBE,FER,FERROGLOBE,A741 VENTILATEUR A741,2020-10-14 12:04:13,1. FOR INFORMATION,Lubrication problem,Nous ne relevons pas de défaut particulier sur l'équipement. Comportement vibratoire sain. ,,HL/44534
+45,PF1AS,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF1AS REDUCTEUR_PFA1_SUD,2020-10-14 13:06:36,1. FOR INFORMATION,N/A,"Nous ne relevons pas de défaut particulier sur l'équipement. Pas d'action à suivre, à suivre selon planning. ",,HL/44534
+46,40M01,2019-02-25 23:00:00,FERROGLOBE,FER,FERROGLOBE,40M01 Kuttner,2019-02-26 13:52:04,2. NO INTERVENTION REQUIRED,Other,"Nous relevons une fréquence de piste interne sur le palier côté opposé accouplé du ventilateur. Les amplitudes sont très faibles. Aucune action requise.
+
+Pas de défaut notable sur le moteur à signaler.
+
+Jeu OK.
+Structure OK.
+Alignement OK.
+Lubrification OK.
+
+Pas d'action requise. Equipement à suivre selon planning (3 mois).",,Administrator/44534
+47,V1,2019-06-26 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2019-07-21 15:01:23,2. NO INTERVENTION REQUIRED,Other,"Le défaut de roulement présent sur le palier côté accouplement du ventilateur ne présente pas une évolution notable depuis la dernière mesure. 
+
+Pas d'action requise. Equipement à suivre selon planning (3 mois).  ",,tk/400
+48,V1102,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1102 VENTILATEUR V1102,2019-07-21 15:07:28,2. NO INTERVENTION REQUIRED,Electrical problem,"Nous relevons l'apparition/ l'augmentation de fréquences d'origine électriques sur le moteur. 
+
+Aucune action requise. Equipement à suivre selon planning (3 mois). ",,tk/400
+49,V2,2019-06-26 22:00:00,FERROGLOBE,FER,FERROGLOBE,V2 VENTILATEUR V2,2019-07-21 15:12:28,2. NO INTERVENTION REQUIRED,Other,"Le défaut de roulement présent sur le palier côté accouplement du ventilateur ne présente pas une évolution notable depuis la dernière mesure. 
+
+Pas d'action requise. Equipement à suivre selon planning (3 mois).  ",,tk/400
+50,A752,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,A752 VENTILATEUR A752,2019-10-09 08:21:36,2. NO INTERVENTION REQUIRED,Lubrication problem,"Nous relevons un léger problème de lubrification. Les amplitudes vibratoires ne nécessitent pas encore d'intervention à ce stade. 
+Suivre la périodicité de graissage habituelle. ",Ventilateur côté accouplement,tk/400
+51,M42,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,M42 VENTILATEUR M42,2019-10-09 08:36:54,2. NO INTERVENTION REQUIRED,Imbalance,"Nous relevons sur le moteur et sur le ventilateur une fréquence à 1 X fois la vitesse de rotation du ventilateur, signature d'un pur déséquilibre. Les amplitudes vibratoires max observées ce jour (5 mm/s RMS) restent acceptables et bien en deça des 32 mm/s RMS déjà observées. Nous vous conseillons toutefois de rester vigilant et nettoyer la turbine dès que les vibrations vous semblent augmenter. ",Ventilateur,tk/400
+52,M4,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,M4 POMPE M4,2019-07-21 13:22:32,2. NO INTERVENTION REQUIRED,Electrical problem,"Nous relevons une augmentation des niveaux d'origine électriques. Les niveaux vibratoires restent acceptables. 
+
+Seul le moteur a été contrôler les plaiers ventilateur ne sont pas accessibles.
+
+Pas d'action requise, équipement à suivre selon planning (3 mois). ",,tk/400
+53,M42,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,M42 VENTILATEUR M42,2019-07-21 13:26:10,2. NO INTERVENTION REQUIRED,Imbalance,"Suite au nettoyage de le turbine effectué par vos soins, nous notons une nette diminution du déséquilibre (de 30.5 mm/s RMS à 5.8 mm/s RMS). Le nettoyage a été nécessaire pour retrouver un niveau vibratoire sain. 
+
+Nous notons toutefois le maintien d'un déséquilibre originel, particulièrement en direction axiale. Les valeurs actuelles sont encore acceptables (7.5 mm/s RMS), mais nous vous conseillons de réaliser un équilibrage pour un fonctionnement sur le long terme si les valeurs continuent d'augmenter. 
+
+Un défaut de roulement naissant du côté accouplement du ventilateur est relevé mais ne nécessite pas d'intervention à ce stade. 
+
+Pas d'action requise. Equipement à suivre selon planning (3 mois). ",,tk/400
+54,M6,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,M6 POMPE M6,2019-07-21 13:45:07,2. NO INTERVENTION REQUIRED,Looseness,"Nous observons un défaut de jeu au niveau du moteur. Le défaut a un peu évolué mais reste acceptables à ce stade. 
+
+Défaut de jeu à suivre à la prochaine mesure (3 mois). ",,tk/400
+55,M8,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,M8 POMPE M8,2019-07-21 13:51:14,2. NO INTERVENTION REQUIRED,Looseness,"Equipement mesuré pour la première fois: défaut de jeu naissant ou fonctionnement normal, suivre l'évolution lors de la prochaine mesure. 
+
+Seul le moteur a été contrôlé, les paliers du ventilateur ne sont pas accessibles.
+
+Pas d'action requise, équipement à suivre selon planning (3 mois). ",,tk/400
+56,A711,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,A711 VENTILATEUR A711,2020-03-11 10:32:09,2. NO INTERVENTION REQUIRED,Electrical problem,"Moteur:
+Niveaux vibratoire en baisse notable sur l'ensemble de la cinématique.
+Les amplitudes vibratoires sont correctes.
+Hausse nette des mesures accélération et Peak-Vue, sur le palier côté accouplement. Cette évolution semble liée au fréquences émise par le variateur de vitesse.
+
+Roulement: OK
+Lubrification : OK
+
+Ventilateur:
+Niveaux vibratoire en baisse notable sur l'ensemble de la cinématique.
+Les amplitudes vibratoires sont correctes.
+
+Roulements: 
+Fonctionnement avec une légère contrainte de fonctionnement, et un marquage de la piste externe.
+
+Préconisation: 
+Les évolutions constatée lors de cette collecte de mesures sont liées à une vitesse de fonctionnement moins importante que lors des précédentes campagnes. 
+L'évolution des amplitudes émises par le variateur de vitesse et les défauts de piste et de contrainte observés sur les roulements du ventilateur sont à surveiller lors des prochaines mesures.
+",palier moteur côté accouplement,Laurent/44701
+57,A711,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,A711 VENTILATEUR A711,2019-10-09 08:52:39,2. NO INTERVENTION REQUIRED,BSF & FTF defect,"Nous relevons sur le palier côté turbine une fréquence correspondant à un défaut de cage. Les amplitudes vibratoires demeurent faibles. des fréquences d'origine électrique sont observées sur le moteur. Les amplitudes sont stables et acceptables. Comportement vibratoire sain du reste, pas d'action requise. Equipement à suivre selon planning. ",Ventilateur côté accouplement,tk/400
+58,M4,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,M4 POMPE M4,2019-10-09 09:26:42,2. NO INTERVENTION REQUIRED,Faulty belt,Nous relevons une fréquence relative à un défaut de courroie. Les amplitudes sont stables par rapport à la dernière mesure et ne justifient pas d'intervention à ce stade. Equipement à suivre selon planning. ,,tk/400
+59,M5,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,M5 POMPE M5,2019-10-09 09:29:55,2. NO INTERVENTION REQUIRED,Imbalance,Nous relevons un déséquilibre du ventilateur avec amplification structurelle sur le moteur. Les amplitudes vibratoires sont encore acceptables pour ce type d'équipement et ne justifient pas d'intervention. Evolution à suivre à la prochaine mesure. ,,tk/400
+60,M6,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,M6 POMPE M6,2019-10-09 09:33:27,2. NO INTERVENTION REQUIRED,Looseness,"Nous relevons des multiples entiers de la vitesse de rotation de l'équipement traduisant un problème de jeu au niveau de l'accouplement. Les amplitudes sont marquées mais restent acceptable. Aucune action requise à ce stade.
+
+Visible également du frottement sur les paliers de la pompe. Les amplitudes sont encore acceptable.
+
+Pas d'action requise à ce stade. Equipement à suivre selon planning.",Moteur,tk/400
+61,40M01,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,40M01 Kuttner,2020-01-13 15:06:08,2. NO INTERVENTION REQUIRED,Bearing - Outer/Inner race,"Nous relevons sur le palier du ventilateur côté opposé accouplement des fréquences asynchrones correspondants à un défaut de piste interne ou externe. Les amplitudes ne sont pas la hausses et ne sont pas du tout alarmantes. Toutefois, l'équipement tournait moins vite qu'habituellement (600 RPM au lieu de 800). Le moteur présente aussi de forts niveaux vibratoires liés au fonctionnement du variateur qui doit ""plus travailler"" en basse vitesse. Les amplitudes ne doivent pas générer d'inquiétude.
+
+Aucune intervention requise. Equipement à suivre selon planning. ",Palier ventilateur côté opposé accouplement,tk/400
+62,M4,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,M4 POMPE M4,2020-06-25 16:04:35,2. NO INTERVENTION REQUIRED,Structural problem / resonance,Nous relevons sur l'équipement un légère résonance structurelle. Les amplitudes ne nécessitent pas encore d'intervention. A suivre périodiquement. ,,Administrator/44534
+63,M5,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,M5 POMPE M5,2020-06-25 16:10:31,2. NO INTERVENTION REQUIRED,Electrical problem,Nous relevons une augmentation des fréquences électriques sur le moteur. Les amplitudes ne sont pas encore alarmantes. Aucune action requise. A suivre périodiquement. ,Moteur,Administrator/44534
+64,V2,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,V2 VENTILATEUR V2,2020-10-02 08:08:56,2. NO INTERVENTION REQUIRED,Lubrication problem,"Nous ne relevons pas d'évolution particulière sur l'équipement. Un soulèvement de spectre en légère diminution indique tout de même un défaut de lubrification. Les amplitudes et l'évolution ne nécessitent pas d'intervention. 
+
+Défaut de lubrification naissant. Pas d'action requise. A suivre selon planning.",Palier ventilateur,HL/44534
+65,PF1AS,2020-03-04 23:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF1AS REDUCTEUR_PFA1_SUD,2020-03-12 07:49:46,2. NO INTERVENTION REQUIRED,Lubrication problem,"Moteur:
+Fonctionnement normal du moteur
+
+Roulements:
+Un manque de lubrifiant a été constaté, particulièrement sur le palier côté transmission.
+
+Réducteur:
+Les amplitudes sont normales.
+Fonctionnement calme du réducteur
+
+Roulements:
+Sur les roulementsdu second arbre, on reléve la présence de nombreux chocs à 169cpm, dont l'origine est difficile à attribuer sans les éléments de la cinématique (plan et désignation des roulements).
+
+Préconisation:
+Un graissage léger des paliers du moteur est recomandé sans urgences.
+Les plans et la séléments de la cinématique du réducteur est à transmettre afin confirmer l'origine des défauts observés.",paliers du moteur,Laurent/44701
+66,A752,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,A752 VENTILATEUR A752,2020-06-25 14:44:20,2. NO INTERVENTION REQUIRED,Looseness,"Nous observons sur les paliers du ventilateur des harmoniques de la fréquence de rotation, traduisant un jeu. Les amplitudes indiquent que le jeu reste fonctionnel. Aucune action requise à ce stade. ",Paliers ventilateurs,UserID -1/0
+67,M42,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,M42 VENTILATEUR M42,2020-06-25 15:02:17,2. NO INTERVENTION REQUIRED,Imbalance,Déséquilibre relevé sur le ventilateur se propageant sur tout l'équipement. Les amplitudes sont tout à fait acceptables. Auucune intervention requise. Equipement à suivre de manière périodique. ,Ventilateur,Administrator/44534
+68,40M01,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,40M01 Kuttner,2020-06-25 15:12:56,2. NO INTERVENTION REQUIRED,Bearing - Outer/Inner race,"Nous relevons des fréquences asycnhrones sur le moteur. Les amplitudes sont très faibles, mais la vitesse de l'équipement l'est aussi. Cela traduit probablement un très léger défaut de roulement. Aucune action requise. ",Moteur côté non accouplé,Administrator/44534
+69,V2,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,V2 VENTILATEUR V2,2020-03-11 13:03:45,2. NO INTERVENTION REQUIRED,Lubrication problem,"Moteur:
+Fonctionnement normal du moteur avec la prédominance des composantes liées au fonctionnement du variateur de vitesse.
+
+Roulements: RAS
+Lubrification: RAS
+
+Ventilateur:
+Les amplitudes vibratoires sont assez stables et correctes.
+
+Roulements: présence d'un manque de lubrification, particulièrement sur le palier côté accouplement. Présence de défaut de faibles amplitudes liés à la cinématique des roulements.
+
+Préconisation:
+Un graissage du palier du ventilateur est recommandé à la réception du rapport.
+Une étude sur la récurrence du graissage des paliers du ventilateur est conseillé afin de limiter le fonctionnement sous contraintes.",palier du ventilateur côté accouplement,Laurent/44701
+70,40M01,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,40M01 Kuttner,2020-03-11 13:31:22,2. NO INTERVENTION REQUIRED,Bearing - Outer/Inner race,"Moteur:
+Fonctionnement normal du moteur
+
+Roulement: OK
+Lubrification: OK
+
+Ventilateur:
+Le fonctionnement est normal.
+
+Roulements:
+Sur le roulement côté accouplement, cette série de mesures à une vitesse habituelle de 835 tr/min, montre une évolution lente des défauts relevés en janvier 2020.
+
+Préconisation:
+Continuer de suivre l'évolution des défauts sur le roulement du ventilateur côté accouplement lors des prochaines mesures.",roulement du ventilateur côté accouplement,Laurent/44701
+71,Dép PF,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,Dép PF Dépoussièrage PF,2020-03-11 13:55:28,2. NO INTERVENTION REQUIRED,Misalignment,"Moteur:
+Le fonctionnement du moteur est normal
+
+Roulement:
+Légère contrainte sur le roulement côté transmission
+
+Ventilateur:
+Le déséquilibre du ventilateur est normal à 2mm/s pour une rotation à 1660 tr/min.
+Légère prédominance des amplitudes en direction axiale.
+
+Préconisation:
+Sans urgence et pour limiter les contraintes de part et d'autres de la transmission, une amélioration de l'alignement des poulies est recommandée.",transmission par poulies/courroies,Laurent/44701
+72,M4,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,M4 POMPE M4,2020-03-11 15:20:23,2. NO INTERVENTION REQUIRED,Structural problem / resonance,"Moteur: 
+on relève sur le moteur des amplitudes en augmentation à 3,5mm/s, avec la prédominance d'une composante à 715cpm, hors cinématique. Il est possible que la composante à la rotation à 640cpm vient exciter une résonnance.
+
+Roulements: RAS
+Lubrification OK
+
+Préconisation:
+Lors de la prochaine collecte des données, des mesures à différentes vitesses sont recommandées à  640, 800, et 1000 tr/min, par exemple et ceci afin de vérifier la fréquence l'hypothèse de la résonnance.
+Si elle est vérifiée, il sera nécessaire de limiter le fonctionnement dans la zone de vitesse identifiée par un shunt sur le variateur de vitesse. ",Moteur,Laurent/44701
+73,A711,2019-06-26 22:00:00,FERROGLOBE,FER,FERROGLOBE,A711 VENTILATEUR A711,2019-07-21 12:22:04,2. NO INTERVENTION REQUIRED,Other,"Nous relevons une légère dégradation du roulement côté opposé à l'accouplement du ventilateur et un défaut de roulement naissant du côté accouplement. 
+
+Même si nous notons une évolution, les amplitudes restent acceptables et ne nécessitent pas d'intervention à ce stade. 
+
+Des fréquences électriques sont également relevées sur le moteur. 
+
+Pas d'action requise, équipement à suivre selon planning (3 mois).",,tk/400
+74,A741,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,A741 VENTILATEUR A741,2019-07-21 12:29:54,2. NO INTERVENTION REQUIRED,Other,"Défaut de roulement relevé sur le palier du ventilateur côté opposé à l'accouplement, les évolutions sont stables par rapport à la dernière mesure et ne nécessitent pas d'intervention.
+
+Aucune action requise. Equipement à suivre selon planning (3 mois). ",,tk/400
+75,40M01,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,40M01 Kuttner,2019-07-21 12:53:14,2. NO INTERVENTION REQUIRED,Other,"Nous relevons une augmentation des fréquences électriques sur le moteur. Pas d'action requise à ce stade. 
+
+Nous relevons également un défaut de roulement naissant sur le palier du ventilateur côté opposé au roulement. Pas d'évolution depuis la dernière mesure. 
+
+Pas d'action requise. Equipement à suivre selon planning (3 mois).",,tk/400
+76,A711,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,A711 VENTILATEUR A711,2019-05-03 06:59:24,2. NO INTERVENTION REQUIRED,Other,"Nous relevons la fréquence d'un défaut de roulement sur le palier du côté opposé accouplé du ventilateur. L'amplitude est en augmentation en ragard du dernier relevé mais le niveau reste acceptable. Acune action requise à ces tade.
+
+Pas de défaut notable de roulement à signaler sur le moteur.
+
+Jeu OK
+Alignement OK
+Equilibrage OK
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+77,A741,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,A741 VENTILATEUR A741,2019-05-03 07:31:32,2. NO INTERVENTION REQUIRED,Electrical problem,"Nous relevons les fréquences électriques d'alimentations sur les points de mesure du moteur. Les ampliutdes sont acceptables et aucune action n'est requise.
+
+Nous relevons également la fréquence de défaut de roulement sur le palier côté opposé accouplé du ventialteur. Les amplitudes sont faibles et aucune action n'est requise à ce stade.
+
+Jeu OK
+Alignement OK
+Equilibrage OK
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+78,A752,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,A752 VENTILATEUR A752,2019-05-03 08:08:32,2. NO INTERVENTION REQUIRED,Other,"Nous relevons la fréquence de défaut des roulements du ventilateur. Les amplitudes sont faibles et acceptalbes. Aucune action requise à ce stade.
+
+Nous relevons également des fréquences d'origine électrique sur les paliers du moteur. Les amplitudes sont faibles  et aucune action n'est requise à ce stade.
+
+Jeu OK
+Alignement OK
+Equilibrage OK.
+
+Pas d'action requise. Equipement à suivre selon planning.",ventilateur,Administrator/44534
+79,M5,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,M5 POMPE M5,2020-01-13 17:12:08,2. NO INTERVENTION REQUIRED,Bearing - Outer/Inner race,"Nous observons sur le moteur côté poulie des fréquences asynchrones correspondant à un défaut de bague de roulement. Les amplitudes sont encore très faibles et aucune action n'est requise. 
+
+Pas d'action requise. Evolution à suivre lors de la prochaine mesure. ",Moteur côté accouplement,tk/400
+80,M9,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,M9 POMPE M9,2020-01-13 17:26:00,2. NO INTERVENTION REQUIRED,Lubrication problem,"Nous relevons un léger décollement de spectre sur le moteur côté poulie. Les amplitudes restent faibles et ne nécessitent pas de délencher d'intervention mais sont à la hausse. 
+
+Pas d'action requise. Equipement à suivre selon planning. ",,tk/400
+81,A741,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,A741 VENTILATEUR A741,2020-03-11 10:49:41,2. NO INTERVENTION REQUIRED,Bearing - Outer/Inner race,"Moteur:
+comportement normal du moteur avec variateur de vitesse 
+
+Roulement: OK
+Lubrification: Ok
+
+Ventilateur:
+Le comportement vibratoire de la turbine est normal
+
+Roulement: Fonctionnement sous une légère contrainte visible sur les deux paliers, avec la présence de défaut naissant de piste probablement externe.
+
+Préconisation:
+La masse de la turbine semble provoquer un léger pincement en zone de charge, limitant la bonne lubrification des roulements.
+Une étude sur l'amélioration de la lubrification des roulements de la turbine est recommandée sans urgence.",paliers du ventilateur,Laurent/44701
+82,T43A,2020-03-04 23:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T43A REDUCTEUR T43A H2.25,2020-03-11 16:59:03,2. NO INTERVENTION REQUIRED,Accouplement,"Moteur:
+Légère hausse d'amplitude sur la première harmonique à la rotation de l'arbre côté accouplement à 1,2mm/s
+
+Réducteur:
+Pas d'évolution notable sur la fréquence du train GV/MV1 avec les deux premières harmoniques.
+présence de nombreux chocs aux rotations des arbres du rédcuteur 1490,249 et 39 tr/min
+
+Roulement:
+Présence d'une contrainte nouvelle sur l'arbre d'entrée du réducteur.
+
+Préconisation:
+Les augmentations d'amplitude sur les paliers de part et d'autres de l'accouplement entre moteur et réducteur avec plus de contrainte de fonctionnemnt montre un début d'usure de l'accouplement.
+Evolution à suivre lors des prochaines mesures. ",accouplement entre le moteur et entrée réduct.,Laurent/44701
+83,A402,2020-03-04 23:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,A402 REDUCTEUR_A402_voirplan,2020-03-12 06:43:19,2. NO INTERVENTION REQUIRED,Looseness,"Moteur:
+Présence de la composante à 300Hz, fréquence d'amorçage des thyristors si le moteur est en courant continu.
+
+Réducteur:
+Hausse des vibrations à 2mm/s, valeur normale avec augmentation de l'amplitude de la fréquence d'negrènement du premer train.
+
+Roulement: Présence de chocs à la rotation de l'arbre GV
+
+Arbre A,B,C,D, LEFT MIDDLE et RIGHT : Présence de jeux sur les quatre arbres à 90 tr/min.
+
+préconisation.
+Les variations visibles lors de cette collecte de données sont liées à une vitesse de fonctionnement plus importante et donc probablement une charge différente par rapport aux précédentes mesures..
+A surveiller lors des prochaines collectes de données","arbres A, B, C, D",Laurent/44701
+84,T47,2020-03-04 23:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,"T47 REDUCTEUR T47 H2.31,5",2020-03-12 07:04:22,2. NO INTERVENTION REQUIRED,Looseness,"Moteur:
+Pas dévolution notable en amplitude et nombre sur les jeux de fonctionnement déjà constaté lors de la précédente campagne.
+
+roulements: Léger graissage à prévoir sur le palier arrière du moteur.
+
+Réducteur: 
+Pas d'évolution notable sur la composition des spectres avec la prédominance de la fréquence d'engrènement du premier train et de nombreux chocs à la rotation de l'arbre d'entrée à 1489cpm.
+
+Préconisation:
+Sans urgence, un contrôe visuel de l'état du pignon sur l'arbre entrée est recommandée, afin de s'assurer que la présence des chocs à la rotation de l'arbre GV ne soit pas liée à une légère dégradation de la denture.",Palier du moteur côté accouplement ,Laurent/44701
+85,V1,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2019-05-03 08:12:08,2. NO INTERVENTION REQUIRED,Other,"Nous relevons la fréquence de défaut des 2 roulements du venitlateur.  Les amplitudes vibratoires sont marquées et à suivre attentivement lors du prochain contrôle.
+
+Pas de défaut notable à signalier sur le moteur.
+
+Jeu OK
+Alignement OK
+Lubrification acceptable.
+
+Pas d'action requise. Equipement à suivre selon planning.",ventilateur,Administrator/44534
+86,V2,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,V2 VENTILATEUR V2,2019-05-03 08:18:30,2. NO INTERVENTION REQUIRED,Other,"Nous relevons la fréquence de défaut des 2 roulements du venitlateur.  Les amplitudes vibratoires sont faibles et acceptable. Aucune action requise à ce stade.
+
+Pas de défaut notable à signalier sur le moteur.
+
+Jeu OK
+Alignement OK
+Lubrification acceptable.
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+87,40M01,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,40M01 Kuttner,2019-05-03 08:25:39,2. NO INTERVENTION REQUIRED,Other,"Nous relevons une fréquence de piste interne sur le palier côté opposé accouplé du ventilateur. Les amplitudes sont très faibles. Aucune action requise.
+
+Pas de défaut notable sur le moteur à signaler.
+
+Jeu OK.
+Structure OK.
+Alignement OK.
+Lubrification OK.
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+88,Dép PF,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,Dép PF Dépoussièrage PF,2019-05-03 08:27:45,2. NO INTERVENTION REQUIRED,Drive Belt concern,"Nous relevons les fréquences de défaut des courroies de transmission. Les amplitudes sont marquées mais restent acceptables. A suivre lors du prochain contrôle.
+
+Pas de défaut notable de roulement à signaler.
+
+Equilibrage OK
+Lubrification OK
+Jeu OK
+Alignement OK
+
+Pas d'action requise. Equipement à suivre selon planning.",,Administrator/44534
+89,M6,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M6 POMPE M6,2019-05-03 08:50:51,2. NO INTERVENTION REQUIRED,Jeu.,"Nous relevons des multiples entiers de la vitesse de rotation de l'équipement traduisant un problème de jeu au niveau de l'accouplement. Les amplitudes sont marquées mais restent acceptable. Aucune action requise à ce stade.
+
+Nous relevons un défaut de roulement sur le palier côté accouplé du moteur. L'amplitude est faible et aucune action n'est requise à ce stade.
+
+Visible également du frottement sur les paliers de la pompe. Les amplitudes sont encore acceptable.
+
+Pas d'acion requise à ce stade. Equipement à suivre selon planning.",,Administrator/44534
+90,A307,2019-06-26 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,A307 REDUCTEUR_A307,2019-07-04 14:12:50,2. NO INTERVENTION REQUIRED,Looseness,"Sur le moteur côté accouplement nous observons du jeu. A ce stade, les amplitudes vibratoires ne justifient pas d'intervention. 
+
+Evolution défaut à suivre lors de la prochaine mesure. 
+
+Pas d'action requise, équipement à suivre selon planning.  ",,tk/400
+91,T30,2019-06-26 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T30 REDUCTEUR_T30_P3.201,2019-07-04 14:18:28,2. NO INTERVENTION REQUIRED,Looseness,"Un défaut de jeu naissant est visible sur l'arbre d'entrée du réducteur. Les niveaux vibratoires demeurent bas et tout à fait acceptables. 
+
+Nous conseillons de suivre l'évolution du défaut lors de la prochaine mesure. 
+
+Nous relevons également sur ce même arbre des fréquences d'engrènement typiques du fonctionnement d'un réducteur. 
+
+Pas d'action requise, équipement à suivre selon planning. ",,tk/400
+92,M1,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M1 POMPE M1,2020-10-02 08:36:50,2. NO INTERVENTION REQUIRED,Lubrication problem,"Nous relevons sur la pompe un décollement de spectre et un défaut de roulement très leger. Les amplitudes ne dépassent pas les amplitudes déjà atteintes par le passé. 
+
+Léger défaut de roulement et lubrification sur pompe. Pas d'action requise. ",Pompe,HL/44534
+93,SU,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,SU Suppression Utilités,2020-10-02 08:54:14,2. NO INTERVENTION REQUIRED,Bearing - Outer/Inner race,"Nous relevons une évolution positive du défaut de roulement côté courroie du ventilateur indiquant une meilleure lubrification. Les amplitudes restent un peu élevées mais ne nécessitent pas d'intervention. 
+
+Léger défaut de roulement à tendance baissière. Pas d'action requise. A suivre selon planning. ",Palier vtl côté courroie,HL/44534
+94,A711,2020-10-07 22:00:00,FERROGLOBE,FER,FERROGLOBE,A711 VENTILATEUR A711,2020-10-14 11:59:39,2. NO INTERVENTION REQUIRED,Bearing - Outer/Inner race,"Nous relevons sur le palier du ventilateur côté opposé accouplement un défaut de roulement naissant. Les amplitudes sont encore faibles et ne nécessitent pas d'intervention. 
+
+Défaut de roulement naissant sur palier ventilateur côté opposé accouplement. Pas d'action requise. ",Palier ventilateur côté opposé accouplement,HL/44534
+95,A402,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,A402 REDUCTEUR_A402_voirplan,2020-10-14 12:17:47,2. NO INTERVENTION REQUIRED,Gear problem,"Nous relevons sur l'ensemble de l'équipement une fréquence à 16Hz, très probablement liée au fonctionnement du réducteur. Les amplitudes ne justifient pas d'intervention à ce stade. 
+
+Léger défaut d'engrènement. Aucune action requise. ",,HL/44534
+96,T38,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T38 REDUCTEUR T38 H2.25,2020-10-14 12:37:47,2. NO INTERVENTION REQUIRED,Gear problem,"Nous ne relevons pas d'évolution particulière sur l'équipement. Les amplitudes restent stables et acceptables. Nous relevons seulement un léger défaut d'engrènement ne nécessitant pas d'intervention. 
+
+Défaut d'engrènement naissant. Pas d'action requise. ",Réducteur,HL/44534
+97,T43B,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T43B REDUCTEUR T43_B H2.64,2020-10-14 12:58:11,2. NO INTERVENTION REQUIRED,Gear problem,"Nous relevons sur le réducteur un défaut d'engrènement encore tout à fait acceptable. Les amplitudes vibratoires ne justifient pas d'intervention. 
+
+Défaut d'engrènement naissant sur réducteur. Pas d'action requise. A suivre selon planning. ",Réducteur,HL/44534
+98,PF1AN,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF1AN REDUCTEUR_PFA1_NORD,2020-10-14 13:09:57,2. NO INTERVENTION REQUIRED,Misalignment,"Nous relevons sur le second arbre du réducteur un défaut de lignage. Les amplitudes sont faibles et ne nécessitent pas d'intervention. A suivre selon planning. 
+
+Léger défaut de lignage. Pas d'action requise. A suivre selon planning.  ",Réducteur,HL/44534
+99,PF3,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF3 PF3_Concasseur_primaire,2020-10-14 13:13:59,2. NO INTERVENTION REQUIRED,Misalignment,"Nous relevons sur le palier opposé poulie une signature vibratoire typique d'un défaut de lignage. Les amplitudes ne présentent pas d'évolution et compte tenu de la cinématique de l'équipement ne doivent pas générer d'inquiétude. 
+
+Léger défaut de lignage. Pas d'action requise. ",Bielle,HL/44534
+100,SU,2019-06-26 22:00:00,FERROGLOBE,FER,FERROGLOBE,SU Suppression Utilités,2019-07-21 14:49:21,3. ATTENTIVE FOLLOW UP,Lubrication problem,"Suite à la lubrification du ventilateur réalisé par vos soins sur place, les niveaux vibratoires ont nettement diminués. 
+
+Compte tenu des défauts de lubrification récurrents sur cet équipement, suivre avec attention les évolutions lors de la prochaine mesure. ",,tk/400
+101,M1,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,M1 POMPE M1,2019-10-09 09:17:10,3. ATTENTIVE FOLLOW UP,Lubrication problem,"Nous détectons sur la pompe un frottement sur les deux paliers. Les amplitudes sont stables mais importantes. Un suivi attentif est justifié. Aucune action requise à ce stade, suivre l'évolution à la prochaine mesure. ",Pompe,tk/400
+102,V2,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,V2 VENTILATEUR V2,2020-01-13 14:52:28,3. ATTENTIVE FOLLOW UP,Lubrication problem,"Nous observons sur les paliers du ventilateur des décollements de spectre et des forme d'onde relativement chargée en HF. Toutefois compte tenu de la constance avec les dernières mesures, nous ne conseillons pas d'intervention. Des fréquences asynchrones sont également visibles mais tout à fait minimes. Des fréquences électriques sont visibles sur le moteur, l'évolution reste dans tolérable. 
+
+Défaut de lubrification léger. Evolution à suivre à la prochaine mesure avec attention. ",Ventilateur,tk/400
+103,SU,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,SU Suppression Utilités,2020-06-25 16:24:14,3. ATTENTIVE FOLLOW UP,Bearing - Outer/Inner race,"Nous relevons sur le palier du ventilateur côté accouplement une fréquence asynchrone avec des nombreuses harmoniques, accompagnées d'amplitudes vibratoires relativement importantes. Nous ne notons toutefois pas d'évolution. 
+
+Défaut avancé de roulement sur le palier côté poulie. Pas d'action requise à ce stade. A suivre attentivemment lors de la prochaine mesure. ",Palier vtl côté courroie,Administrator/44534
+104,V1,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2020-10-02 08:05:24,3. ATTENTIVE FOLLOW UP,Bearing - Outer/Inner race,"Nous observons sur les paliers du ventilateur une fréquence à 8.1 ordres signature d'un défaut de roulement. Les amplitudes sont en légère augmentation mais ne nécessitent pas d'intervention à ce stade. 
+
+Défaut de roulement sur palier du ventilateur. A suivre lors de la prochaine mesure. ",Paliers ventilateur,HL/44534
+105,V1,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2020-06-25 14:48:28,3. ATTENTIVE FOLLOW UP,Bearing - Outer/Inner race,Nous observons des fréquences asynchrones à 8.113 ordres sur les deux paliers du ventilateur. Les amplitudes sont encore relativement faibles et ne présentent pas de dégradation particulière depuis la dernière mesure. A suivre lors de la prochaine mesure. ,Paliers ventilateur,Administrator/44534
+106,M42,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,M42 VENTILATEUR M42,2020-03-11 13:19:51,3. ATTENTIVE FOLLOW UP,Imbalance,"Moteur:
+les vibrtions sont stables mais notables à 6mm/s, avec la prédominance de la première harmonique à la rotation de l'arbre.
+
+Roulements: fonctionnement avec un peu de contrainte
+
+Ventilateur: 
+l'amplitude du balourd est juste acceptable à 4mm/s.
+Le fonctionnement avec ce balourd a généré laprésence de jeux par desserrage, ce qui a pu entraîner une modification de la géométrie d'alignement.
+
+Roulements: Fonctionnement sous contrainte
+
+Préconisation:
+Le nettoyage et l'équilirage de la turbine est recommandé afin de limiter les contraintes de fonctionnment. Un contrôle des jeux de l'arbre de la turbine est recommandé (contrôle du serrage du roulement bloqué) puis de l'alignement.
+",ventilateur,Laurent/44701
+107,P34F,2020-03-04 23:00:00,FERROGLOBE,FER,FERROGLOBE,P34F POMPE P34F,2020-03-11 14:28:45,3. ATTENTIVE FOLLOW UP,Imbalance,"Moteur:
+Nette élévation des vibrations sur les directions radiales à 6,5mm/s, avec la prédominance de la première harmonique à la rotation de l'arbre.
+
+Roulements:
+Apparition de défaut iés à la cinématique des roulements (harmoniques asynchrones)
+
+Pompe:
+Les amplitudes vibraoires sont en baisse assez nette avec une réduction des amplitudes liées aux chocs à la rotation de l'arbre.
+
+Roulements:
+Pas d'évolution notable avec la présence d'effets hydrodynamique et de cavitation, déjà observés.
+
+Préconisation:
+Afin de comprendre l'évolution des mesures, il est nécessaire de savoir si une opération de maintenance a eu lieu depuis octobre 2019: remplacement accouplement, reprise de l'alignement, changement du moteur.
+Si aucune opération n'a été réalisée, le remplcament et la révisoin du moteur est recommandé rapidement.",moteur,Laurent/44701
+108,T38,2019-06-26 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T38 REDUCTEUR T38 H2.25,2019-07-04 14:23:04,3. ATTENTIVE FOLLOW UP,Looseness,"Un jeu prononcé est observé sur le moteur côté accouplement. Les impacts sont moyennement élevés mais francs. 
+
+Nous conseillons fortement de reprendre une mesure d'ici 3 mois pour suivre l'évolution du défaut. 
+
+Refaire une mesure d'ici 3 mois. ",,tk/400
+109,T47,2019-06-27 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,"T47 REDUCTEUR T47 H2.31,5",2019-07-05 13:49:48,3. ATTENTIVE FOLLOW UP,Looseness,"Un défaut de jeu est relevé sur le moteur côté accouplement.
+
+Les amplitudes vibratoires sont moyennement importantes (17 G's Pk-Pk) mais ne nécessitent pas d'intervention à ce stade. A surveiller lors de la prochaine mesure. ",,tk/400
+110,PF3,2019-06-26 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF3 PF3_Concasseur_primaire,2019-07-07 18:25:10,3. ATTENTIVE FOLLOW UP,Looseness,"Du jeu est observé sur le palier côté transmission et/ou sur la bielle. 
+
+Les amplitudes vibratoires sont relativement importantes mais ne nécessitent pas d'intervention à ce stade. 
+
+Défaut de jeu. Pas d'action requise, équipement à suivre selon planning. ",,tk/400
+111,M1,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,M1 POMPE M1,2019-07-21 13:05:38,3. ATTENTIVE FOLLOW UP,Lubrication problem,"Nous relevons une augmentation des fréquences électriques sur le moteur. A suivre attentivemment à la prochaine mesure. 
+
+Les frottements détectés à la dernière mesure ont fortement diminués du côté opposé à l'accouplement et légèrement augmentés du côté accouplement pour être maintenant similaires. 
+
+Fréquences électriques et frottements sur pompe. Surveiller attentivement moteur et pompe à la prochaine mesure. ",,tk/400
+112,A741,2019-02-25 23:00:00,FERROGLOBE,FER,FERROGLOBE,A741 VENTILATEUR A741,2019-02-26 14:19:51,3. ATTENTIVE FOLLOW UP,Imbalance,"Nous relevons un pic à la vitesse de rotation du ventilateur traduisant un léger déséquilibre du ventilateur. Les amplitudes sont modérées. 
+
+Nous relevons une différence notable des vibrations entre la mesure verticale et la mesure horizontale traduisant une faiblesse de la structure dans la direction horizontale. Les amplitudes sont à suivre attentivement. En cas d'évolution une correction de l'équilibrage sera requis.
+
+Pas de defaut de roulement à signaler.
+Jeu OK.
+Alignement OK.
+Electrique OK.
+
+Suivre l'évolution des amplitudes lors des prochaines mesures (3 mois).",Structure,Administrator/44534
+113,M7,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,M7 POMPE M7,2020-01-13 17:15:47,3. ATTENTIVE FOLLOW UP,Lubrication problem,"Première mesure sur cet équipemet. Nous relevons sur la pompe un défaut de lubrification. Sans historique, il est difficile de dire si le défaut est prononcé ou non. Les amplitudes restent importantes. Compte tenu de l'absence de nippe de graissage, nous conseillons un suivi attentif lors de la prochaine mesure. Un léger jeu est également présent sur le moteur.
+
+Défaut de lubrification. Evolution à suivre lors de la prochaine mesure.",Pompe,tk/400
+114,M42,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M42 VENTILATEUR M42,2020-10-02 08:12:06,3. ATTENTIVE FOLLOW UP,Imbalance,"Nous relevons depuis longtemps sur cet équipement la fréquence de la rotation indiquant un déséquilibre pur de la turbine. Les amplitudes sont ici encore acceptables. 
+
+Déséquilibre naissant. Pas d'action requise à ce stade. ",Ventilateur,HL/44534
+115,A307,2020-03-04 23:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,A307 REDUCTEUR_A307,2020-03-11 17:29:26,3. ATTENTIVE FOLLOW UP,Accouplement,"Moteur:
+Les mesures globales en vitesse sont en hausse, particulièrement en axial et sur le palier arrière.
+Augmentation des jeux en radial et de la seconde harmonique en axial
+Augmentation du défaut d'entrefer
+
+Roulements:
+Légère de la contrainte et des chocs à la rotation
+
+Réducteur:
+Augmentation de l'amplitude vibratoire de la composante à la rotation de l'arbre GV à 992 tr/min.
+
+Légère hausse de l'amplitude de la fréquence d'engrènement du train GV/MV1.
+
+Roulement:
+Présence d'une contrainte nouvelle sur les palier de l'arbre intermédiaire MV1.
+
+Préconisation:
+Un contrôle de l'état d'usure de l'accouplement entre le moteur et réducteur est recommandé sous trois mois. Suite aux constatations, un alignement sera à prévoir.",moteur,Laurent/44701
+116,M42,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M42 VENTILATEUR M42,2019-05-03 08:20:56,3. ATTENTIVE FOLLOW UP,Imbalance,"Nous relevons un pic à la vitesse de rotation du ventilateur indiquant un problème déquilibrage de la turbine. Les amplitudes sont en nette diminution en regard du dernier relevé mais reste encore élecé.
+
+Nous relevons une fréquence de défaut de roulement sur le palier du côté accouplé du ventilateur. Les amplitudes sont encore faibles et aucune intervention n'est requise à ce stade.
+
+Pas de défaut notbale à signaler sur le moteur.
+
+Lubrification OK
+Jeu OK
+Courroies OK
+
+L'amplitude du déséquilibre du ventilateur et à suivre lors de prochain contrôle.",,Administrator/44534
+117,M1,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,M1 POMPE M1,2019-05-03 08:38:48,3. ATTENTIVE FOLLOW UP,Rub,"Nous relevons un problème de lubrification/frottement sur les roulements de la pompe. Les amplitudes sont marquées et justifie un suivi attentif car aucun appoint de graissage n'est possible. En cas d'augmentation de l'amplitude lors du prochain contrôle, le remplacement des roulements de la pompe sera requis.
+
+Pas de défaut notable à signaler sur le moteur.
+
+Jeu OK
+Alignement OK
+
+Suivre attentivement les roulements de la pompe lors du prochain contrôle.",,Administrator/44534
+118,P34F,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,P34F POMPE P34F,2020-10-02 08:32:04,3. ATTENTIVE FOLLOW UP,Misalignment,"Nous relevons une fréquence à 2X la rotation indiquant un défaut de lignage. Les amplitudes ne nécessitent pas encore d'intervention. 
+
+Défaut de lignage avancé. A suivre avec attention lors de la prochaine mesure. ",,HL/44534
+119,T40,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T40 REDUCTEUR T40,2020-10-14 12:46:57,3. ATTENTIVE FOLLOW UP,Bearing - Outer/Inner race,"Nous relevons en sortie de réducteur un défaut de roulement  à 7.6 ordres. Les amplitudes sont relativement importantes pour cette fréquence de rotation. Cependant, nous ne conseillons pas d'intervention à ce stade, suivre le défaut. 
+
+Défaut de roulement avancé en sortie de réducteur. Pas d'action requise à ce stade. ",Réducteur,HL/44534
+120,T43A,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T43A REDUCTEUR T43A H2.25,2020-10-14 12:52:53,3. ATTENTIVE FOLLOW UP,Looseness,"Nous relevons sur l'arbre d'entrée du réducteur un défaut de jeu rotatif. Les amplitudes ne sont pas encore dramatiques mais présentent une évolution significative. Nous ne conseillons pas d'intervention à ce stade.
+
+Défaut de jeu rotatif avancé sur l'arbre d'entrée du réducteur. Défaut à suivre lors de la prochaine campagne. Pas d'action requise à ce stade.  ",Arbre entrée réducteur,HL/44534
+121,PF14,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF14 PF14_Concasseur_secondaire,2020-10-14 13:19:53,3. ATTENTIVE FOLLOW UP,Bearing - Outer/Inner race,"Nous relevons sur la bielle des informations asynchrones modulée à la rotation. Les amplitudes sont importantes mais compte tenu de la cinématique de l'équipement acceptable. 
+
+Défaut de roulement sur la bielle côté accouplement. Pas d'action requise à ce stade. Le suivi attentif à la prochaine mesure est conseillé. ",Bielle,HL/44534
+122,A711,2019-02-06 23:00:00,FERROGLOBE,FER,FERROGLOBE,A711 VENTILATEUR A711,2019-02-07 14:29:06,4. PROACTIVE INTERVENTION,Jeu.,"Nous relevons des multiples entiers de la vitesse de rotation de l'équipement sur le palier du côté accouplé du ventilateur. Ce phénomène traduit un jeu au niveau du roulement. Les amplitdes vibratoires sont marquées et une internvetion est préconisiée.
+
+Nous relevons également la fréquence de défaut d'une piste externe sur le roulement du côté opposé accouplement du ventilateur. Les amplitudes vibratoire sont marsquées également un remplacement du roulement est préconisé.
+
+Nous relevons également une différnece d'amplitude notable sur les mesures verticales et horizontales traduisant une faiblesse structurelle dans la direction horizontale.  Les amplitudes sont à suivre en cas d'évoltuion une modification de la structure peut être envisagée.
+
+Un léger appoint de lubrification sur le roulement côté accouplé du moteur est également requis.
+
+Alignement OK.
+Equilibrage acceptable.
+
+Nous recommandons :)
+1) Réaliser un léger appoint de lubrificaiton sur le palier accouplé du moteur
+2) Remplacer les roulements du ventilateur d'ici maximun 3 mois.
+3) Contrôler l'équilibrage après le remplacement des roulements.",Roulement ventilateur,UserID -1/0
+123,V1,2019-02-25 23:00:00,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2019-02-26 13:06:51,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un décollement de spectre sur le palier côté accouplé du moteur traduisant un problème de lubrification. Les amplitudes vibratoires sont élévées et une intervention de graissage est requise.
+
+Nous relevons également un décollement de spectre sur les 2 paliers du ventilateur ainsi que la fréquence de défaut de la piste externe. Les amplitudes sont également marquées et une intervention de graissage est également requise.
+
+Equilibrage OK
+Alignement OK
+Jeu OK
+Strucuture OK.
+
+Nous recommandons:
+1) De réaliser le graissage des paliers du ventilateur et du palier côté accouplé du moteur d'ici max 1 mois.
+2) Réaliser un contrôle vibratoire après intervention.",,Administrator/44534
+124,V2,2019-02-25 23:00:00,FERROGLOBE,FER,FERROGLOBE,V2 VENTILATEUR V2,2019-02-26 13:29:34,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un décollement de spectre sur les 2 paliers du ventilateur ainsi que la fréquence de défaut de la piste externe. Les amplitudes sont également marquées et une intervention de graissage est également requise.
+
+Visible des fréquences d'origine électrique sur les paliers du moteur liées au variateur. Les amplitudes sont acceptables. Aucune action requise à ce stade.
+
+Equilibrage OK
+Alignement OK
+Jeu OK
+Strucuture OK.
+
+Nous recommandons:
+1) De réaliser le graissage des paliers du ventilateur d'ici max 1 mois.
+2) Réaliser un contrôle vibratoire après intervention.",,Administrator/44534
+125,M42,2019-02-25 23:00:00,FERROGLOBE,FER,FERROGLOBE,M42 VENTILATEUR M42,2019-02-26 13:37:30,4. PROACTIVE INTERVENTION,Imbalance,"Nous relevons un pic à la vitesse de rotation du ventilateur indiquant un problème déquilibrage de la turbine. Les amplitudes sont marquées et un intervention est préconisée.
+
+Nous relevons une fréquence de défaut de roulement sur le palier du côté accouplé du ventilateur. Les amplitudes sont encore faibles et aucune intervention n'est requise à ce stade.
+
+Pas de défaut notbale à signaler sur le moteur.
+
+Lubrification OK
+Jeu OK
+Courroies OK
+
+Nous recommandons :
+1) De prévoir le nettoyage du ventilateur lors du prochain arrêt.
+2) Refaire une mesure après intervention pour vérifier les niveaux.",,Administrator/44534
+126,P36B,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,P36B POMPE P36B,2019-07-21 14:46:13,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons une légère augmentation du frottement sur le moteur. Les amplitudes nécessitent une intervention. 
+
+Nous vous conseillons de réaliser un appoint de graisse sur le moteur côté accouplement. ",,tk/400
+127,V1,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2019-10-09 08:27:30,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un décollement de spectre sur les deux paliers du ventilateur, signature d'un défaut de lubrification. Les amplitudes vibratoires nécessitent de réaliser un appoint de graisse.
+Nous vous préconisons de réaliser le graissage des deux paliers du ventilateur d'ici 1 mois. ",Ventilateur,tk/400
+128,V2,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,V2 VENTILATEUR V2,2019-10-09 08:32:21,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un décollement de spectre sur les deux paliers du ventilateur, signature d'un défaut de lubrification. Les amplitudes vibratoires nécessitent de réaliser un appoint de graisse.
+Nous vous préconisons de réaliser le graissage des deux paliers du ventilateur d'ici 1 mois. ",Ventilateur,tk/400
+129,Dép PF,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,Dép PF Dépoussièrage PF,2019-10-09 08:48:14,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un décollement de spectre sur le palier accouplé du ventilateur. Les amplitudes sont marquées et une intervention de graissage est  requise.
+
+Visible la fréquence de courroies de transmission. Les amplitudes sont encore acceptables. Aucune action requise.
+
+Nous recommandons de réaliser le graissage des paliers du ventilateur d'ici max 1 mois.",Ventilateur,tk/400
+130,P36B,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,P36B POMPE P36B,2019-10-09 08:58:39,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons l'augmentation des amplitudes vibratoires liées à un défaut de lubrification sur le moteur côté accouplement. Une action de graissage est fortement recommandée. 
+
+Nous vous préconisons de réaliser un graissage sur le moteur côté accouplement. ",Moteur côté accouplement,tk/400
+131,P34F,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,P34F POMPE P34F,2019-10-09 09:09:39,4. PROACTIVE INTERVENTION,Coupling problem,Nous relevons la présence de fréquences multiples de la vitesse de rotation. Sont particulièrement présentes 2X et 4X sur certains points. Un défaut de lignage est suspecté. Nous vous conseillons de réaliser un contrôle du lignage au prochain arrêt technique. Le jeu reste stable. Nous vous conseillons de réaliser un contrôle après lignage. ,Moteur-Pompe,tk/400
+132,SU,2019-10-08 22:00:00,FERROGLOBE,FER,FERROGLOBE,SU Suppression Utilités,2019-10-09 09:40:35,4. PROACTIVE INTERVENTION,Faulty belt,"Nous relevons sur le moteur et sur le palier du ventilateur côté accouplement une augmentation importante de la signature d'un défaut de courroie. Les amplitudes vibratoires justifient un contrôle de l'état des courroies de transmission. 
+
+Nous relevons également l'augmentation des amplitudes vibratoires accompagnant décollement de spectre sur le palier côté accouplement du ventilateur. Les amplitudes vibratoires justifient une intervention de graissage. 
+
+Nous vous recommandons de : 
+1) Contrôler l'état et la tension des courroies,
+2) Réaliser une lubrification du palier du ventilateur côté accouplement. ",,tk/400
+133,A752,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,A752 VENTILATEUR A752,2020-01-13 14:38:29,4. PROACTIVE INTERVENTION,Lubrication problem,Nous relevons sur le palier du ventilateur côté moteur un décollement spectral accompagné d'une forme d'onde haute fréquence chargée (22 G's Pk-Pk). Ceci est la conséquence d'un frottement causé par un défaut de lubrification. Nous vous conseillons de contrôler la correcte lubrification du palier du ventilateur côté accouplement.,Palier ventilateur côté moteur,tk/400
+134,V1,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,V1 VENTILATEUR V1,2020-01-13 14:45:37,4. PROACTIVE INTERVENTION,Bearing - Outer/Inner race,"Nous observons sur le palier du ventilateur côté accouplement une fréquence asynchrone correspondant très probablement à un défaut de bague externe. Les amplitudes vibratoires restent pour le moment acceptables et ne nécessitent pas d'intervention. Nous observons toutefois des décollements de spectre en haute fréquence, synonyme d'un frottement.
+
+Un contrôle de la lubrification des deux paliers du ventilateur est recommandé. 
+
+",Palier ventilateur côté accouplement,tk/400
+135,M42,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,M42 VENTILATEUR M42,2020-01-13 15:00:05,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons sur le palier du ventilateur côté accouplement un décollement de spectre. Les amplitudes restent acceptables mais compte tenu de l'évolution par rapport aux dernières mesures, nous vous recommandons de contrôler la lubrification. 
+
+Contrôler la lubrification sur le palier du ventilateur côté accouplement. ",Ventilateur côté accouplement,tk/400
+136,P36B,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,P36B POMPE P36B,2020-01-13 16:34:08,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous observons sur le moteur côté accouplement la hausse de l'énergie vibratoire associée à un décollement spectral, synonyme d'un défaut de lubrification. Un contrôle de la lubrification est fortement recommandé. Nous observons également une fuite conséquente de la garniture de la pompe. Un éventuel ajustage de cette dernière peut être effectuée si cela est possible et le cas échéant, l'installation d'un écran à projection est conseillé. 
+
+Contrôler la lubrification du moteur côté accouplement. Régler, si possible, le réglage de la garniture de pompe pour diminuer la fuite. Le cas échéant, essayer de restreindre les projections d'eau sur le corps de la pompe.",Moteur côté accouplement,tk/400
+137,P36B,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,P36B POMPE P36B,2020-06-25 15:27:53,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons sur le moteur côté non accouplé un décollement de spectre. Les amplitudes ont augmentées assez fortement lors de la dernière mesure. 
+
+Défaut de lubrification. Nous vous recommandons de contrôler la correcte lubrification du moteur côté non accouplé. Délai: 1 mois. ",Moteur côté non accouplé,Administrator/44534
+138,P34A,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,P34A POMPE P34A,2020-06-25 15:37:55,4. PROACTIVE INTERVENTION,Structural problem / resonance,"Nous observons sur le moteur un déséquilibre avec amplification directionnelle (9 mm/s RMS). Les amplitudes vibratoires nécessitent une intervention. 
+
+Déséquilibre avec résonance structurelle observé sur le moteur. Nous vous conseillons de contrôler les fixations de l'équipement (du moteur surtout).",Moteur,Administrator/44534
+139,V2,2020-06-24 22:00:00,FERROGLOBE,FER,FERROGLOBE,V2 VENTILATEUR V2,2020-06-25 14:56:04,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons sur le palier du ventilateur côté moteur un soulèvement de spectre traduisant un défaut de lubrification. Il s'agit du palier présentant le plus important décollement de spectre.
+
+Défaut de lubrification. Nous vous conseillons de contrôler la correcte lubrification du palier ventilateur côté accouplement. Délai: 1 mois.",Palier ventilateur côté moteur,Administrator/44534
+140,T43B,2019-06-26 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,T43B REDUCTEUR T43_B H2.64,2019-07-05 13:39:11,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons du frottement sur le moteur partie côté non accouplé.
+
+Nous conseillons de réaliser un appoint de graisse au niveau du moteur côté opposé accouplement. 
+
+",,tk/400
+141,P34A,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,P34A POMPE P34A,2020-01-13 16:41:36,4. PROACTIVE INTERVENTION,Structural problem / resonance,"Nous observons sur le moteur des amplitudes vibratoires à une fois la vitesse de rotation, dans une direction préférentielle, liées au dévissage de la réhausse moteur. Nous observons également une résonance structurelle sur le corps de la pompe. Les fixations de la pompe semblent aussi dévissées. 
+Un défaut naissant de roulement est présent sur le moteur côté accouplement. Les amplitudes restent acceptables à ce stade. Evolution à suivre lors de la prochaine mesure.
+
+Un resserrage des fixations des réhausse moteur ET pompe est fortement préconisé.    ",,tk/400
+142,A752,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,A752 VENTILATEUR A752,2019-07-21 12:37:34,4. PROACTIVE INTERVENTION,Lubrication problem,"Un défaut de lubrification est relevé sur le palier du ventilateur côté accouplement. 
+
+Nous vous conseillons de réaliser un appoint de graisse sur le palier côté accouplement du ventilateur si cela n'a pas été réalisé depuis le 28/06/2019. ",,tk/400
+143,Dép PF,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,Dép PF Dépoussièrage PF,2019-07-21 12:43:48,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un défaut de lubrification naissant sur le palier côté accouplement du ventilateur.
+
+Nous vous conseillons de réaliser un appoint de graisse sur le palier côté accouplement du ventilateur si cela n'a pas été réalisé depuis le 28/06/2019. ",,tk/400
+144,Dép PF,2019-02-25 23:00:00,FERROGLOBE,FER,FERROGLOBE,Dép PF Dépoussièrage PF,2019-02-26 14:06:09,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un décollement de spectre sur le palier accouplé du ventilateur ainsi que la fréquence de défaut de la piste externe. Les amplitudes sont marquées et une intervention de graissage est  requise.
+
+Visible la fréquence de courroies de transmission. Les amplitudes sont encore acceptables. Aucune action requise.
+
+Equilibrage OK
+Alignement OK
+Jeu OK
+Strucuture OK.
+
+Nous recommandons:
+1) De réaliser le graissage des paliers du ventilateur d'ici max 1 mois.
+2) Réaliser un contrôle vibratoire après intervention.",,Administrator/44534
+145,A752,2019-02-25 23:00:00,FERROGLOBE,FER,FERROGLOBE,A752 VENTILATEUR A752,2019-02-26 14:12:23,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un décollement de spectre sur le palier accouplé du ventilateur ainsi que la fréquence de défaut de la piste externe. Les amplitudes sont marquées et une intervention de graissage est  requise.
+
+Visible un léger jeu au niveau du palier côté opposé accouplé. Les amplitudes sont faibles. Aucunea action requise à ce stade.
+
+Equilibrage OK
+Alignement OK
+Strucuture OK.
+
+Nous recommandons:
+1) De réaliser le graissage des paliers du ventilateur d'ici max 1 mois.
+2) Réaliser un contrôle vibratoire après intervention.",,Administrator/44534
+146,SU,2020-01-12 23:00:00,FERROGLOBE,FER,FERROGLOBE,SU Suppression Utilités,2020-01-13 17:29:32,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons sur le palier du ventilateur côté poulie un décollement de spectre accompagné de fréquences asynchrones synonymes d'un défaut de roulement. Les amplitudes vibratoires liées à ce défaut de roulement ne nécessitent pas d'intervention à ce stade mais est considéré comme défaut avancé. 
+
+Un léger décollement de spectre est également visible sur le moteur côté poulie.
+
+Nous vous conseillons de contrôler la correcte lubrification du palier ventilateur et moteur côté poulie. ",Palier ventilateur côté poulie,tk/400
+147,P36B,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,P36B POMPE P36B,2019-05-03 08:31:54,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un decollement du spectre sur le palier côté accouplé du moteur traduisant un défaut de lubrification. Les amplitudes sont marquées et un graissage du roulement est requis.
+
+Nous ne relevons pas de défaut notable de roulement.
+
+Jeu OK
+Alignement acceptable.
+
+Nous recommandons de réaliser un appoint de lubrificaiton sur le palier côté accouplé du moteur d'ici max 15 jours.",,Administrator/44534
+148,SU,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,SU Suppression Utilités,2019-05-03 08:57:58,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons un décollement du spectre sur le palier du ventialteur du côté opposé accouplement traduisant un problème de lubrification. Les amplitudes sont marquées et un appoint de graissage est requis.
+
+Nous relevons égalemetn la fréquence de défaut du roulement du ventilateur du côté accouplé. Les amplitudes sont marquées et à suivre lors du prochain contrôle.
+
+Pas de défaut notable à signaler sur le moteur.
+
+Nous recomandons de réaliser un appoint de graissage sur les paliers du ventilateur d'ici max 10 jours.",,Administrator/44534
+149,P36B,2020-10-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,P36B POMPE P36B,2020-10-02 08:26:11,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons sur le moteur et la pompe côté accouplement un décollement de spectre indiquant un défaut de lubrification. Les amplitudes nécessitent une intervention.
+
+Défaut de lubrification sur moteur et pompe côté accouplement. Nous vous conseillons de contrôler la correcte lubrification d'ici 1 mois. ",,HL/44534
+150,V1102,2020-10-07 22:00:00,FERROGLOBE,FER,FERROGLOBE,V1102 VENTILATEUR V1102,2020-10-14 12:06:19,4. PROACTIVE INTERVENTION,Electrical problem,"Nous relevons l'augmentation de fréquences électriques sur le moteur. Les amplitudes sont importantes et l'évolution non négligeable. Un défaut de barre rotorique est suspecté. Une intervention doit être envisagée. 
+
+Fréquences électriques. Barres rotoriques peut être endommagées. Nous vous conseillons de contrôler dans un premier temps l'état du variateur. ",Moteur,HL/44534
+151,A752,2020-10-07 22:00:00,FERROGLOBE,FER,FERROGLOBE,A752 VENTILATEUR A752,2020-10-14 12:11:09,4. PROACTIVE INTERVENTION,Lubrication problem,"Nous relevons sur le palier du ventilateur côté moteur un décollement spectral accompagné d'amplitudes vibratoires importantes. L'évolution et les amplitudes nécessitent une intervention. Le contrôle de la lubrification. 
+
+Nous relevons également un défaut de roulement sur le palier du moteur côté accouplement. Les amplitudes ne nécessitent pas d'intervention à ce stade. 
+
+Défaut de lubrification sur le palier du ventilateur côté moteur. Prévoir le contrôle de la correcte lubrification de ce palier. Délai: 1 mois. ",Ventilateur côté moteur,HL/44534
+152,A307,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,A307 REDUCTEUR_A307,2020-10-14 12:22:43,4. PROACTIVE INTERVENTION,Accouplement,"Nous relevons sur le moteur et l'entrée du réducteur une signature révélatrice d'un défaut d'accouplement. L'équipement était en charge contrairement aux campagnes précédentes à vide. De nombreuses fréquences parasitent l'analyse des élements tournants, toutefois le défaut d'accoupement est avéré. 
+Nous recommanderions de contrôler l'état de l'accouplement. 
+
+Nous relevons également un décollement de spectre sur l'arbre 2 du réducteur indiquant un défaut de lubrification. Pas d'intervention requise à ce stade pour le défaut de lubrification.
+
+Défaut d'accouplement entre moteur et réducteur. Le contrôle de l'état de l'accouplement est recommandé d'ici 3 mois.  ",Accouplement,HL/44534
+153,P34F,2019-06-27 22:00:00,FERROGLOBE,FER,FERROGLOBE,P34F POMPE P34F,2019-07-21 14:40:44,5. CORRECTIVE INTERVENTION,Looseness,"Le jeu sur la pompe côté opposé à l'accouplement relevé lors de la dernière mesure est toujours présent, mais n'a pas évolué. Les amplitudes vibratoires justifient toutefois une intervention. 
+
+Nous recommandons de corriger le problème de jeu mécanique au niveau des paliers de la pompe.",,tk/400
+154,PF14,2019-06-26 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,PF14 PF14_Concasseur_secondaire,2019-07-05 14:15:32,5. CORRECTIVE INTERVENTION,Other,"Une fois les amplitudes dues aux mouvements de la bielle annulées, nous relevons un défaut de piste interne du roulement 22248 sur la bielle côté opposé à la transmission. 
+
+Les amplitudes sont relativement élevées, nous préconisons de remplacer le roulement d'ici max 4 mois. 
+
+Remplacer roulement de la bielle d'ici 4 mois. ",,tk/400
+155,P34F,2019-05-01 22:00:00,FERROGLOBE,FER,FERROGLOBE,P34F POMPE P34F,2019-05-03 08:35:24,5. CORRECTIVE INTERVENTION,Jeu.,"Nous relevons des multiples entiers de la vitesse de rotation sur les paliers de la pompe traduisant un porblème de jeu mécanique. Les amplitudes sont importantes et une intervention est requise.
+
+Nous ne relevons pas de défaut notable de roulement.
+
+Alignement acceptable
+Lubrification OK
+
+Nous recommandons de corriger le problème de jeu mécanique au niveau des paliers de la pompe d'ici max 3 mois.",,Administrator/44534
+156,T47,2020-10-07 22:00:00,REDUCTEURS_FERROGLOBE,RED,REDUCTEURS_FERROGLOBE,"T47 REDUCTEUR T47 H2.31,5",2020-10-14 13:02:05,5. CORRECTIVE INTERVENTION,Looseness,"Nous relevons sur le moteur une augmentation des impacts à la rotation du côté accouplement indiquant un défaut de jeu. Nous considérons que le défaut est à un stade sévère et qu'une intervention est nécessaire. 
+
+Défaut de jeu sur moteur. Nous vous préconisons de remplacer le moteur. Délai: 3 mois. ",Moteur,HL/44534
