@@ -1,3 +1,3 @@
 # Data
 
-Vous trouverez dans ce répertoire les dats du projet
+Vous trouverez dans ce répertoire les datas du projet
