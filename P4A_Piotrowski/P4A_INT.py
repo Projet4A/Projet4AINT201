@@ -4,14 +4,14 @@ import numpy as np
 import pandas as pd
 import datetime
 
-df = pd.read_csv(r'C:\Users\piotr\ClientA_Reports.csv',converters={'SurveyDate':pd.to_datetime,'AnalysisDate':pd.to_datetime})
+df = pd.read_csv(r'C:\Users\piotr\ClientA_Reports.csv',converters={'SurveyDate':pd.to_datetime,'AnalysisDate':pd.to_datetime}) #Lecture du fichier et convertion de 'SurveyDate' et 'AnalysisDate' en datetime.
 
 df['Date'] = df.AnalysisDate.apply(lambda x: x.date())
 df['Description_Equipment'] = df.EquipmentName.apply(lambda x: "".join(x.strip().split()[1:]))
 df.drop('Unnamed: 0',axis=1, inplace=True)
 df.to_csv('ClientA_Reports_.csv',index=False)
 
-data = pd.read_csv(r'C:\Users\piotr\ClientA_Vib_Data.csv', converters={'DateTime_x':pd.to_datetime})
+data = pd.read_csv(r'C:\Users\piotr\ClientA_Vib_Data.csv', converters={'DateTime_x':pd.to_datetime}) #Lecture du fichier et convertion de 'DateTime' en datetime.
 
 data['Description_Equipment'] = data.Description_Equipment.apply(lambda x: "".join(x.strip().split()))
 data.drop('Unnamed: 0',axis=1, inplace=True)
