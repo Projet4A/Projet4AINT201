@@ -6,7 +6,7 @@ import datetime
 
 df = pd.read_csv(r'C:\Users\piotr\ClientA_Reports.csv',converters={'SurveyDate':pd.to_datetime,'AnalysisDate':pd.to_datetime}) #Lecture du fichier et convertion de 'SurveyDate' et 'AnalysisDate' en datetime.
 
-df['Date'] = df.AnalysisDate.apply(lambda x: x.date())
+df['Date'] = df.AnalysisDate.apply(lambda x: x.date()) #Nouveau nom pour les donnees 'AnalysisDate' -> 'Date.
 df['Description_Equipment'] = df.EquipmentName.apply(lambda x: "".join(x.strip().split()[1:]))
 df.drop('Unnamed: 0',axis=1, inplace=True)
 df.to_csv('ClientA_Reports_.csv',index=False)
