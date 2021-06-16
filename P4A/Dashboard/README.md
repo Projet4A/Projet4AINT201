@@ -3,7 +3,9 @@
 Dans ce répertoire vous trouverez les différents dashboards réalisés au cours du projet 4A.
 3 dashboards ont été réalisé se trouvant dans les répertoires respectifs suivant:
 
-* [Exploration](../P4A/Dashboard/Exploration/)
+* Exploration : Ce répertoire contient le tableau de bord permettant d'explorer les données et de les visualiser
+* Training : Ce répertoire contient le tableau de bord permettant d'entrainer un modèle d'apprentissage automatique
+* Prediction : Ce répertoire contient le tableau de bord permettant d'effectuer une prédiction selon les caractéristiques définies par l'utilisateur
 
 Voici la démarche afin de pouvoir utiliser le dashboard:
 
