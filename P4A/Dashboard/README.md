@@ -7,6 +7,8 @@ Dans ce répertoire vous trouverez les différents dashboards réalisés au cour
 * Training : Ce répertoire contient le tableau de bord permettant d'entrainer un modèle d'apprentissage automatique
 * Prediction : Ce répertoire contient le tableau de bord permettant d'effectuer une prédiction selon les caractéristiques définies par l'utilisateur
 
+Veuillez télécharger l'intégralité du répertoire (Exploration, Training, Prediction) si vous souhaitez utiliser un dashboard
+
 Voici la démarche afin de pouvoir utiliser le dashboard:
 
 1. Lancer Anaconda Powershell Prompt 
