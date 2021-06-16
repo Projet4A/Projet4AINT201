@@ -3,7 +3,7 @@
 Dans ce répertoire vous trouverez les différents dashboards réalisés au cours du projet 4A.
 3 dashboards ont été réalisé se trouvant dans les répertoires respectifs suivant:
 
-* [Exploration](../Exploration)
+* [Exploration](../P4A/Dashboard/Exploration)
 
 Voici la démarche afin de pouvoir utiliser le dashboard:
 
