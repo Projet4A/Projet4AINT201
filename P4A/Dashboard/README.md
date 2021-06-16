@@ -33,3 +33,24 @@ Voici la démarche afin de pouvoir utiliser le dashboard:
 ![alt text](https://github.com/Projet4A/Projet4AINT201/blob/main/P4A/Dashboard/img/ex_dash_1.png "DASH 2")
 7. Ne pas hésiter à actualiser la page afin que le contenu puisse s'afficher
 ![alt text](https://github.com/Projet4A/Projet4AINT201/blob/main/P4A/Dashboard/img/ex_dash_2.png "DASH 3")
+
+Dash n'est pas un module installé par défaut. Pour se faire, si des messages d'erreur apparaissent indiquant que les modules de Dash n'existent pas, veuillez executer ces commandes d'installation suivantes:
+
+```python
+conda install -c conda-forge dash-renderer
+conda install -c conda-forge dash 
+conda install -c conda-forge dash-html-components 
+conda install -c conda-forge dash-core-components
+conda install -c conda-forge plotly
+conda install -c conda-forge dash-bootstrap-components
+```
+Streamlit n'est pas un module installé par défaut. Pour se faire, si des messages d'erreur apparaissent indiquant que le module Streamlit n'existe pas, veuillez executer la commande d'installation suivante:
+
+```python
+conda install -c conda-forge streamlit
+```
+
+Pour plus d'informations:
+* https://streamlit.io/
+* https://dash-gallery.plotly.host/Portal/
+
